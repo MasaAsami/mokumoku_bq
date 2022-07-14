@@ -1,2 +1,1 @@
-# mokumoku_bq
-BigQuery (SQL) もくもく会
+# BigQuery (SQL) もくもく会
